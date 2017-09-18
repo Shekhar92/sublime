@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Sumlime Corp Demo</string>
+    <string name="worker">Worker</string>
+    <string name="customer">Customer</string>
+    <string name="admin">Admin</string>
+    <string name="register">Register</string>
+    <string name="login">Login</string>
+    <string name="task">Task</string>
+</resources>

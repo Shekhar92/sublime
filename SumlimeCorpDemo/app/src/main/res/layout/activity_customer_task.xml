@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:id="@+id/tv_customer_name"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/task"
+        android:textSize="20dp"
+        android:layout_margin="@dimen/thirty_dp"/>
+    <TextView
+        android:id="@+id/tv_customer_Location"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Location"
+        android:textSize="20dp"
+        android:layout_margin="@dimen/thirty_dp"/>
+
+    <EditText
+        android:id="@+id/et_task"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="What type of service you want"
+        android:layout_margin="@dimen/twenty_dp"/>
+
+    <Button
+        android:id="@+id/bt_submitButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Submit"
+        android:gravity="center"
+        android:layout_gravity="center_horizontal"/>
+
+</LinearLayout>

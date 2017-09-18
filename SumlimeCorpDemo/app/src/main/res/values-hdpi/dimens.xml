@@ -1,0 +1,30 @@
+<resources>
+
+    <!-- Dimesion Defined For HDPI Devices 0.85X -->
+
+    <!-- JBL dp converter from 1dp to 30dp -->
+    <dimen name="one_dp">0.85dp</dimen>
+    <dimen name="two_dp">1.7dp</dimen>
+    <dimen name="four_dp">3.4dp</dimen>
+    <dimen name="five_dp">4.25dp</dimen>
+    <dimen name="six_dp">5.1dp</dimen>
+    <dimen name="ten_dp">8.5dp</dimen>
+    <dimen name="fifteen_dp">12.75dp</dimen>
+    <dimen name="sixteen_dp">13.6dp</dimen>
+    <dimen name="eighteen_dp">15.3dp</dimen>
+    <dimen name="twenty_dp">17dp</dimen>
+    <dimen name="thirty_dp">25.5dp</dimen>
+
+    <dimen name="fifty_dp">42dp</dimen>
+    <dimen name="sixty_dp">51dp</dimen>
+    <dimen name="seventytwo_dp">61.2dp</dimen>
+    <dimen name="eighty_dp">68dp</dimen>
+    <dimen name="hundred_dp">85dp</dimen>
+    <dimen name="onehundred_twentyfive">106dp</dimen>
+    <dimen name="onehundred_fifty">127dp</dimen>
+
+    <dimen name="twoHundred_twenty_five_dp">191dp</dimen>
+    
+     <!-- JBL dp converter from 1sp to 30sp-->
+
+</resources>

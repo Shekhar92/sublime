@@ -1,0 +1,30 @@
+<resources>
+
+    <!-- Dimesion Defined For Xtra-LARGE MDPI Devices (WXGA) (1280*800) 9inch Tablet Or 10inch Tablet 2X -->
+
+    <!-- JBL dp converter from 1dp to 30dp -->
+    <dimen name="one_dp">2dp</dimen>
+    <dimen name="two_dp">4dp</dimen>
+    <dimen name="four_dp">8dp</dimen>
+    <dimen name="five_dp">10dp</dimen>
+    <dimen name="six_dp">12dp</dimen>
+    <dimen name="ten_dp">20dp</dimen>
+    <dimen name="fifteen_dp">30dp</dimen>
+    <dimen name="sixteen_dp">32dp</dimen>
+    <dimen name="eighteen_dp">46dp</dimen>
+    <dimen name="twenty_dp">40dp</dimen>
+    <dimen name="thirty_dp">60dp</dimen>
+    <dimen name="fifty_dp">100dp</dimen>
+    
+    <dimen name="sixty_dp">120dp</dimen>
+    <dimen name="seventytwo_dp">144dp</dimen>
+    <dimen name="eighty_dp">160dp</dimen>
+    <dimen name="hundred_dp">200dp</dimen>
+    <dimen name="onehundred_twentyfive">250dp</dimen>
+    <dimen name="onehundred_fifty">300dp</dimen>
+
+    <dimen name="twoHundred_twenty_five_dp">450dp</dimen>
+    
+    <!-- JBL dp converter from 1sp to 30sp -->
+
+</resources>
